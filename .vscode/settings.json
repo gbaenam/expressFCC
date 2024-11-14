@@ -3,5 +3,10 @@
         "activityBar.background": "#073332",
         "titleBar.activeBackground": "#094846",
         "titleBar.activeForeground": "#F0FDFD"
-    }
+    },
+    "cSpell.words": [
+        "basico",
+        "matematicas",
+        "programacion"
+    ]
 }
