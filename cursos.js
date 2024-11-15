@@ -4,21 +4,21 @@ let infoCursos = {
         {
             id: 1,
             titulo: 'Aprende Python',
-            lenguaje: 'Python',
+            lenguaje: 'python',
             vistas: 15000,
             nivel: 'básico'
         },
         {
             id: 2,
             titulo: 'Python intermedio',
-            lenguaje: 'Python',
+            lenguaje: 'python',
             vistas: 13553,
             nivel: 'intermedio'
         },
         {
             id: 3,
             titulo: 'Aprende JavaScript',
-            lenguaje: 'JavaScript',
+            lenguaje: 'javascript',
             vistas: '102223'
         }
     ],
@@ -26,14 +26,14 @@ let infoCursos = {
         {
             id: 1,
             titulo: 'Aprende calculo',
-            tema: 'Calculo',
+            tema: 'calculo',
             vistas: 12427,
             nivel: 'basico'
         },
         {
             id: 2,
             titulo: 'Aprende Algebra',
-            tema: 'Algebra',
+            tema: 'algebra',
             vistas: 15722,
             nivel: 'intermedio'
         }
