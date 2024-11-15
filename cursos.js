@@ -42,4 +42,16 @@ let infoCursos = {
 
 
 
-module.exports = infoCursos
+// module.exports.infoCursos = infoCursos
+
+
+// module.exports = {
+//     infoCursos: infoCursos
+// }
+
+
+module.exports = {
+    infoCursos
+}
+
+
