@@ -42,4 +42,3 @@ routerProgramacion.get('/:lenguaje/:nivel', (req, res) => {
 
 module.exports = routerProgramacion
 
-console.log(routerProgramacion)
